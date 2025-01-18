@@ -26,10 +26,10 @@ I'm a passionate **Software Developer** who loves solving real-world problems wi
 ---
 
 ## 📂 Featured Projects
-🔹 **[Project Name 1](#)**  
-_A brief description of this project. Highlight what it does and technologies used._  
-- 🚀 Built with **React**, **Node.js**, and **MongoDB**  
-- 🔗 [Live Demo](#) | [Code Repository](#)
+🔹 **[DreamWeaver AI](https://spiffy-meerkat-4e2804.netlify.app/)**  
+_A web application that generates and refines creative dreams based on user input._  
+- 🚀 Built with **React**, **OpenAI GPT-3**, **Supabase**, and **Tailwind CSS**  
+- 🔗 [Live Demo](https://spiffy-meerkat-4e2804.netlify.app/) | [Code Repository](https://github.com/Wrttnspknbrkn/Dreamweaver-ai)
 
 🔹 **[Project Name 2](#)**  
 _A brief description of this project. Highlight what it does and technologies used._  
