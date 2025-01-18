@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Kelvin Fameyeh 👋
 
-<!--
-**Wrttnspknbrkn/Wrttnspknbrkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate **Software Developer** who loves solving real-world problems with clean and efficient code. I enjoy building scalable applications, learning new technologies, and contributing to the developer community.
 
-Here are some ideas to get you started:
+- 🌟 **Specialty:** Web development, backend engineering, and creative coding.
+- 📚 **Currently Learning:** Machine Learning, Artificial Intelligence, Cloud Computing, and Advanced System Design.
+- 🎯 **Goal:** To contribute to impactful open-source projects and build tools that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+
+---
+
+## 📂 Featured Projects
+🔹 **[Project Name 1](#)**  
+_A brief description of this project. Highlight what it does and technologies used._  
+- 🚀 Built with **React**, **Node.js**, and **MongoDB**  
+- 🔗 [Live Demo](#) | [Code Repository](#)
+
+🔹 **[Project Name 2](#)**  
+_A brief description of this project. Highlight what it does and technologies used._  
+- 🚀 Built with **PHP** and **Tailwind CSS**  
+- 🔗 [Live Demo](#) | [Code Repository](#)
+
+---
+
+## 💡 Let's Connect!
+- 💼 [LinkedIn: Kelvin Fameyeh](#)
+- ✉️ Email: [wycekhid10@gmail.com](mailto:wycekhid10@gmail.com)
+
+---
+
+**"Code is like poetry—every line tells a story."**
+
+Thanks for visiting my profile! Feel free to explore my repositories or reach out. 😊
