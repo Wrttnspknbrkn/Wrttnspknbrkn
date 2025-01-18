@@ -31,11 +31,10 @@ _A web application that generates and refines creative dreams based on user inpu
 - 🚀 Built with **React**, **OpenAI GPT-3**, **Supabase**, and **Tailwind CSS**  
 - 🔗 [Live Demo](https://spiffy-meerkat-4e2804.netlify.app/) | [Code Repository](https://github.com/Wrttnspknbrkn/Dreamweaver-ai)
 
-🔹 **[Project Name 2](#)**  
-_A brief description of this project. Highlight what it does and technologies used._  
-- 🚀 Built with **PHP** and **Tailwind CSS**  
-- 🔗 [Live Demo](#) | [Code Repository](#)
-
+### **Parallel Lives: AI-Powered Alternate Reality Simulator**
+_Explore alternate versions of your life with the power of AI. Visualize career paths, relationships, and future outcomes._
+- 🚀 Built with **React.js**, **Tailwind CSS**, and **Node.js**
+- 🔗 [Live Demo](https://tourmaline-zuccutto-c97e99.netlify.app/) | [Code Repository](https://github.com/Wrttnspknbrkn/parallel-lives)
 ---
 
 ## 💡 Let's Connect!
