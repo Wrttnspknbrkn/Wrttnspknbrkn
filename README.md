@@ -59,7 +59,7 @@ _Explore alternate versions of your life with the power of AI. Visualize career 
 ### **CyberGuard AI: AI-Powered Cybersecurity Dashboard**
 _Protect your digital assets with CyberGuard AI. Monitor threats, track vulnerabilities, and stay ahead with real-time insights.
 - 🚀 Built with React.js, Tailwind CSS, and Chart.js
-- 🔗 [Live Demo][(https://euphonious-lebkuchen-bf81f6.netlify.app/)] | [Code Repository](https://github.com/Wrttnspknbrkn/cyberguard-ai)
+- 🔗 [Live Demo](https://euphonious-lebkuchen-bf81f6.netlify.app/) | [Code Repository](https://github.com/Wrttnspknbrkn/cyberguard-ai)
 
 ## 💡 Let's Connect!
 - 💼 [LinkedIn: Kelvin Fameyeh](#)
