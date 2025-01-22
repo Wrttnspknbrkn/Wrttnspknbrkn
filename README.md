@@ -32,7 +32,14 @@ I'm a passionate **Software Developer** who loves solving real-world problems wi
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=database&logoColor=white&style=flat-square)  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)  
 ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat-square)  
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white&style=flat-square)  
+![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white&style=flat-square) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat-square)  
+![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=mui&logoColor=white&style=flat-square)
+![OpenSSL](https://img.shields.io/badge/-OpenSSL-721412?logo=openssl&logoColor=white&style=flat-square)
+![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white&style=flat-square)
 
 ---
 
