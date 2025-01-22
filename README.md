@@ -22,6 +22,17 @@ I'm a passionate **Software Developer** who loves solving real-world problems wi
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)  
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)  
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)  
+![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?logo=chartdotjs&logoColor=white&style=flat-square)  
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat-square)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)  
+![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-339AF0?logo=fontawesome&logoColor=white&style=flat-square)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=database&logoColor=white&style=flat-square)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)  
+![Apache](https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat-square)  
+![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?logo=xampp&logoColor=white&style=flat-square)  
 
 ---
 
