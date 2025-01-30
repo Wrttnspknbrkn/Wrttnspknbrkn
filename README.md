@@ -46,20 +46,32 @@ I'm a passionate **Software Developer** who loves solving real-world problems wi
 ---
 
 ## 📂 Featured Projects
+
 🔹 **[DreamWeaver AI](https://spiffy-meerkat-4e2804.netlify.app/)**  
 _A web application that generates and refines creative dreams based on user input._  
 - 🚀 Built with **React**, **OpenAI GPT-3**, **Supabase**, and **Tailwind CSS**  
 - 🔗 [Live Demo](https://spiffy-meerkat-4e2804.netlify.app/) | [Code Repository](https://github.com/Wrttnspknbrkn/Dreamweaver-ai)
 
-### **Parallel Lives: AI-Powered Alternate Reality Simulator**
-_Explore alternate versions of your life with the power of AI. Visualize career paths, relationships, and future outcomes._
-- 🚀 Built with **React.js**, **Tailwind CSS**, and **Node.js**
+🔹 **Parallel Lives: AI-Powered Alternate Reality Simulator**  
+_Explore alternate versions of your life with the power of AI. Visualize career paths, relationships, and future outcomes._  
+- 🚀 Built with **React.js**, **Tailwind CSS**, and **Node.js**  
 - 🔗 [Live Demo](https://tourmaline-zuccutto-c97e99.netlify.app/) | [Code Repository](https://github.com/Wrttnspknbrkn/parallel-lives)
 
-### **CyberGuard AI: AI-Powered Cybersecurity Dashboard**
-_Protect your digital assets with CyberGuard AI. Monitor threats, track vulnerabilities, and stay ahead with real-time insights.
-- 🚀 Built with React.js, Tailwind CSS, and Chart.js
+🔹 **CyberGuard AI: AI-Powered Cybersecurity Dashboard**  
+_Protect your digital assets with CyberGuard AI. Monitor threats, track vulnerabilities, and stay ahead with real-time insights._  
+- 🚀 Built with **React.js**, **Tailwind CSS**, and **Chart.js**  
 - 🔗 [Live Demo](https://euphonious-lebkuchen-bf81f6.netlify.app/) | [Code Repository](https://github.com/Wrttnspknbrkn/cyberguard-ai)
+
+🔹 **[Task Tally](https://task-tally-joy.lovable.app/)**  
+_A dynamic and engaging task tracking app with gamification, themes, and progress tracking._  
+- 🚀 Built with **Vite**, **TypeScript**, **React**, **shadcn-ui**, and **Tailwind CSS**  
+- 🔗 [Live Demo](https://task-tally-joy.lovable.app/) | [Code Repository](https://github.com/Wrttnspknbrkn/task-tally-joy)
+
+🔹 **[QuickSort-It](https://sortify-quickly.lovable.app/)**  
+_A quadrant-based task prioritization tool that organizes and exports tasks seamlessly._  
+- 🚀 Built with **Vite**, **TypeScript**, **React**, **shadcn-ui**, and **Tailwind CSS**  
+- 🔗 [Live Demo](https://sortify-quickly.lovable.app/) | [Code Repository](https://github.com/Wrttnspknbrkn/sortify-quickly)
+
 
 ## 💡 Let's Connect!
 - 💼 [LinkedIn: Kelvin Fameyeh](#)
